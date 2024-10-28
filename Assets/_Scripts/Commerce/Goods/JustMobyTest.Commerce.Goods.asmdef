@@ -1,0 +1,17 @@
+{
+    "name": "JustMobyTest.Commerce.Goods",
+    "rootNamespace": "JustMobyTest.Commerce.Goods",
+    "references": [
+        "GUID:ae01117685e8cb845b600529a59d3f89",
+        "GUID:ca835c05f254fca4bb31abb947e35873"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

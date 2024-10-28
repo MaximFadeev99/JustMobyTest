@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b76b65f08d590d43b6b7706d61d7823, type: 3}
+  m_Name: HouseBuilderStarterPack
+  m_EditorClassIdentifier: 
+  _includedItems:
+  - {fileID: 11400000, guid: 5ad656444814a8347b46dc28afcf11eb, type: 2}
+  - {fileID: 11400000, guid: 5ad656444814a8347b46dc28afcf11eb, type: 2}
+  - {fileID: 11400000, guid: 5ad656444814a8347b46dc28afcf11eb, type: 2}
+  - {fileID: 11400000, guid: e83069d950051734dbc88465fdccf501, type: 2}
+  - {fileID: 11400000, guid: e83069d950051734dbc88465fdccf501, type: 2}
+  - {fileID: 11400000, guid: 2b23f3d2965dd894ead97fbce1c7d15e, type: 2}
+  <Name>k__BackingField: "\u041D\u0430\u0431\u043E\u0440 \u043D\u0430\u0447\u0438\u043D\u0430\u044E\u0449\u0435\u0433\u043E
+    \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044F \u0434\u043E\u043C\u043E\u0432"
+  <Description>k__BackingField: "\u0414\u0430\u043D\u043D\u044B\u0439 \u043D\u0430\u0431\u043E\u0440
+    \u043F\u0440\u0435\u0434\u043E\u0441\u0442\u0430\u0432\u0438\u0442 \u0412\u0430\u043C
+    \u0434\u043E\u0441\u0442\u0430\u0442\u043E\u0447\u043D\u043E\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E
+    \u0440\u0435\u0441\u0443\u0440\u0441\u043E\u0432 \u0434\u043B\u044F \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0438
+    \u0434\u043E\u043C\u0430 \u043D\u0430 \u0412\u0430\u0448 \u0432\u044B\u0431\u043E\u0440
+    \u0438 \u043F\u043E\u0437\u0432\u043E\u043B\u0438\u0442 \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u0430\u0442\u044C
+    \u043D\u0430\u0432\u044B\u043A\u0438 \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430."
+  <MainSprite>k__BackingField: {fileID: 21300000, guid: c5cf91c030c0dcb458973d240a82c467, type: 3}
+  <Price>k__BackingField: 4.59
+  <Discount>k__BackingField: 0.12
